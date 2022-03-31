@@ -1,0 +1,29 @@
+table {
+  margin-top: 50px;
+  text-align: center;
+  /* background: #333; */
+  /* color: #fff; */
+  border: 10px;
+  border-color: solid black;
+  border-collapse: collapse;
+}
+
+#show td {
+  padding: 13px;
+  border: 1px;
+  border-style: solid;
+  border-color: black;
+  background-color: rgb(89, 235, 155);
+}
+
+#btna td input:hover {
+  background-color: yellow;
+}
+
+#show th {
+  padding: 13px;
+  border: 1px;
+  border-style: solid;
+  border-color: rgb(0, 0, 0);
+  background: rgb(159, 236, 86);
+}
